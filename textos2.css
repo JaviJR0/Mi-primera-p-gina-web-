@@ -1,0 +1,30 @@
+.textos2{
+  position: relative;
+  left: 290px;
+  top: -1935px;
+  z-index: 2945;
+  width: 1200px;
+  font-family: italic, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 15px;
+  color: #ffffff;
+}
+
+.textos2 a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.textos2 a:hover {
+  color: #cccccc;
+}
+
+.textos3{
+  position: relative;
+  left: 820px;
+  top: -1970px;
+  z-index: 3001;
+  width: 1200px;
+  font-family: italic, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 15px;
+   
+}
